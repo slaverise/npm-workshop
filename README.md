@@ -6,11 +6,7 @@
 
 Slides [link](https://docs.google.com/presentation/d/1AhJSteary5P33iyeBB_N0aGgtBPhvH7vPB6emWlkCB8/edit?usp=sharing)
 
-### Step 1 - fork
-
-Fork the [workshop repo](https://github.mpi-internal.com/julian-gernun/workshop-npm)
-
-### Step 2 - login
+### login
 
 As we are going to publish packages into npm and we don't want to polute our company account, start by logging out:
 
@@ -28,7 +24,7 @@ Use these credentials:
 
 ```txt
 Username: npm-workshop
-Password: PmYl^^s6M39#
+Password: ************
 Email: julian.gernun+npmworkshop@adevinta.com
 ```
 
