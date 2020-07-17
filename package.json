@@ -1,0 +1,26 @@
+{
+  "name": "manjar-npm-workshop",
+  "version": "1.0.0",
+  "description": "NPM workshop",
+  "main": "sum.js",
+  "scripts": {
+    "start": "",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaverise/npm-workshop.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "manjar <slaverise@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slaverise/npm-workshop/issues"
+  },
+  "homepage": "https://github.com/slaverise/npm-workshop#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
